@@ -1,0 +1,9 @@
+{
+  "commandDescription": "sf navigator from commandline.",
+  "quickFindPathDescription": "path code.",
+  "errorNoKeyResults": "specified path is not supported.",
+  "examples": [
+    "sfdx setup:qf --path deployment-status --targetusername myOrg@example.com",
+    "sfdx setup:qf --path home --targetusername myOrg@example.com"
+  ]
+}
